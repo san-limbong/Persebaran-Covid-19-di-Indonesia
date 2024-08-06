@@ -1,11 +1,8 @@
-# Laporan Proyek Visualisasi Data - San Antonio Limbong
-## Domain Proyek
+# Visualisasi Data : Analisis Persebaran Covid-19 di Indonesia
 
 Domain Proyek : **Kesehatan**
 
-Judul : Visualisasi Data: Analisis Persebaran Covid-19 di Indonesia
-
-### Latar Belakang
+## Latar Belakang
 ![image](https://github.com/user-attachments/assets/aab28b18-e593-4d3f-a343-4f759ea2ae3c)
 
 COVID-19 merupakan penyakit yang saat ini telah menjadi pandemi global. Pandemi ini dimulai di Wuhan, Tiongkok, dan telah menyebar ke seluruh dunia sejak akhir tahun 2019. COVID-19 dapat menginfeksi individu dari segala usia dan status ekonomi. Namun, orang yang berisiko tinggi mengalami perjalanan penyakit yang parah atau fatal adalah individu yang lebih tua dan mereka dengan komorbiditas seperti diabetes, kanker, dan penyakit kronis lainnya.
@@ -53,3 +50,4 @@ Berikut penjabaran singkat dari dataset yang digunakan.
 Anda dapat mengakses tautan berikut untuk mengakses dashboard pada tableau. [Klik disini](https://public.tableau.com/app/profile/san.antonio.limbong/viz/DashboarddataCovid-19diIndonesia/Dashboard)
 
 ![Dashboard](https://github.com/user-attachments/assets/4647a1d2-71f7-471a-8c07-d24cc1f45993)
+
