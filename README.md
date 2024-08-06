@@ -42,9 +42,6 @@ Berikut informasi pada dataset:
 | 3/2/2020   | ID-JK             | DKI Jakarta | 2         | 0          | 0             | 2                | 41          | 20           | 75              | -54                | Province       |                 | DKI Jakarta | Indonesia | Asia      | Jawa   | UTC+07:00      | Daerah Khusus Ibu Kota  | 1               | 5            | 44             | 267                 |                     | 664         | 10,846,145 | 16,334.31          | 106.8361183  | -6.204698991   | 0.18                  | 3.78                   | 0.00                   | 1.84                    | 0.18                 | 48.78%              | 182.93%             | 1.00                        | 1.00                        |
 | 3/2/2020   | IDN               | Indonesia   | 2         | 0          | 0             | 2                | 2           | 0            | 0               | 2                  | Country        |                 |            | Indonesia | Asia      |        |                |                         | 416             | 98           | 7,230          | 8,488               | 74,953              | 1,916,907   | 265,185,520 | 138.34             | 113.921327   | -0.789275      | 0.01                  | 0.01                   | 0.00                   | 0.00                    | 0.00                 | 0.00%               | 0.00%               |                             |                             |
 
-Would you like this table in a different format or additional information added?
-
-
 _Tabel 1. EDA Deskripsi Variabel_
 
 Berikut penjabaran singkat dari dataset yang digunakan. 
